@@ -20,4 +20,4 @@ Al finalizar, se genera/actualiza:
 - `data/results.csv`
 
 ## Video
-(Pega aquí tu enlace de YouTube)
+https://youtu.be/Ebf0FqVhpaE
